@@ -1,0 +1,5 @@
+export SERVER_PORT=3000
+export DB_HOST=localhost
+export DB_NAME=agent
+export DB_USER=postgres
+export DB_PASSWORD=abc
